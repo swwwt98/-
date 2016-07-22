@@ -1,4 +1,4 @@
-E(http://acm.hdu.edu.cn/showproblem.php?pid=5738)
+E
 =
 
 题目大意
@@ -10,6 +10,10 @@ E(http://acm.hdu.edu.cn/showproblem.php?pid=5738)
 ----------
 
 题解：选定一个点，将其余点与其斜率排序，注意重复的点，斜率存分数时注意正负、0、正无穷。
+
+AC code
+-------
+((http://acm.hdu.edu.cn/showproblem.php?pid=5738))
 
 F
 =
