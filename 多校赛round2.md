@@ -13,7 +13,7 @@ E
 
 AC code
 -------
-((http://acm.hdu.edu.cn/showproblem.php?pid=5738))
+(http://acm.hdu.edu.cn/showproblem.php?pid=5738)
 
 F
 =
