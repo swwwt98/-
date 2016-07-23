@@ -5,14 +5,18 @@ C
 --------
 
 数轴上n个点，每个点距离源点的距离x[i]，价值w[i]，从0点单向出发，每一步都停在一点上，最终停在n点上
+
 val = sum { sqrt( abs( x[i] - x[i-1] - len ) ) } / sum { b[i] }
+
 目标使val最小，打印路径方案
 
 思路及做法
 ----------
 
 分数规划，二分val，dp验证是否合法，
+
 dp[i] = F(val) = sum { sqrt( abs( x[i] - x[i-1] - len ) ) } - sum { b[i] } * val
+
 dp[i] = dp [j] + sqrt( abs( x[i] - x[j] - len ) - b[i] * val
 
 时间复杂度(n^2 logn)
