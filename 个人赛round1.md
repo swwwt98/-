@@ -1,4 +1,4 @@
-E
+C
 =
 
 题目大意
@@ -21,7 +21,7 @@ dp[i] = dp [j] + sqrt( abs( x[i] - x[j] - len ) - b[i] * val
 AC code
 -------
 
-F
+D
 =
 
 题目大意
