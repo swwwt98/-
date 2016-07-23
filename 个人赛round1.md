@@ -50,6 +50,7 @@ dp[i][j][k]：第i行剩j个位置放2个1，剩k个位置放1个1
 
 AC code
 -------
+(http://acm.hust.edu.cn/vjudge/contest/source/6551573)
 
 L
 -
