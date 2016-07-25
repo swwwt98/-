@@ -7,6 +7,8 @@
 
 3.WHUTC 2016 Individual #02 (4/10,218,rank 20/56)
 
+4.WHUTC 2016 Individual #03 (3/10,218,rank 29/55)
+
 总结
 ----
 
