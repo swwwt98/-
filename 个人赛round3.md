@@ -18,6 +18,8 @@ E
 AC code
 -------
 
+(http://acm.hust.edu.cn/vjudge/contest/source/6600607)
+
 C
 =
 
