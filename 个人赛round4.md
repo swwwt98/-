@@ -27,5 +27,9 @@ S->x ：
 
 x'->T：
 
+AC code
+-------
+
+(http://acm.hust.edu.cn/vjudge/contest/source/6633026)
 
 
